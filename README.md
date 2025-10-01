@@ -41,7 +41,8 @@ It covers the full data workflow — from raw Excel import, to SQL data cleaning
 
 
 ##  Dashboard Preview
-![OCD Dashboard](C:\Users\Hp\OneDrive\Documents\Ocd\Ocd project\ocd%20analysis\Ocd Analysis.png)
+![OCD Dashboard]<img width="709" height="315" alt="Ocd Analysis" src="https://github.com/user-attachments/assets/1479737f-7b81-44b5-98a4-303c7bfc1bc2" />
+
 
 
 ##  Tools Used
